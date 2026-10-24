@@ -1,0 +1,12 @@
+.venv/
+Include/
+Lib/
+Scripts/
+pyvenv.cfg
+.idea/
+__pycache__/
+*.pyc
+*.iml
+*.db
+instance/
+var/
